@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+    font-style: inherit;
+    font-size: larger;
+}
+
+h2 {
+color: blueviolet;
+font-style: inherit;
+font-size: larger;
+}
+
+table th {
+    background-color: azure;
+    color: cadetblue;
+    font-style: oblique;
+    font-size: medium;
+}
+
+table td {
+    background-color: paleturquoise;
+    color: palevioletred;
+    font-style: oblique;
+    font-size: medium;
+}
+
+
