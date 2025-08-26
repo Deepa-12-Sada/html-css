@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(32, 39, 229);
+    font-style: normal;
+    text-align: center;
+    font-size: 80px;
+}
+
+ol {
+    color: brown;
+    padding: 10px;
+    font-style: normal;
+    font-size: 75px;
+    list-style-position: inside;
+    text-align: center;
+}
+
