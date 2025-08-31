@@ -1,7 +1,10 @@
 h2 {
-    color: rgb(9, 77, 80);
-    font-size: 50 px;
+    color: #3007a2b2;
+    font-size:xx-large;
     font-style: oblique;
+    text-align: center;
+}
+h1 {
     text-align: center;
 }
 
