@@ -1,0 +1,11 @@
+.sample {
+ text-align: center;
+    border: 1px;
+}
+h1 {
+    font-style: oblique;
+    color: #08d9d9;
+    font:30;
+ background-color: #f1efec;
+    text-align: center;
+}
