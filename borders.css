@@ -1,16 +1,19 @@
 h2 {
-    color: cadetblue;
-    font-size: 20 px;
-    font-style: italic;
+    color: rgb(9, 77, 80);
+    font-size: 50 px;
+    font-style: oblique;
     text-align: center;
 }
 
 .solid {
     border: 4px solid black;
+    background-color: antiquewhite;
 }
 .dashed {
-    border: 4px dashed cornflowerblue
+    border: 4px dashed cornflowerblue;
+    background-color: azure;
 }
 .dotted {
     border: 4px dotted aqua;
+    background-color: plum;
 }
