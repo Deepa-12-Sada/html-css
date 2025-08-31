@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+h1 {
+    background-color: white;
+    color: #386c05;
+}
+label {
+    color: hsl(160, 83%, 14%);
+    }
