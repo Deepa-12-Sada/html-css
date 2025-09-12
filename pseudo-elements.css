@@ -1,0 +1,8 @@
+.sample p::before {
+    content: "This is pseudo-element--->";
+    color: rgb(45, 11, 177);
+}
+.sample p::after {
+    content: "----->This messege from pseudo-elements";
+    color: rgba(201, 95, 37, 0.766);
+}
